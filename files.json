@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "lastUpdated": "April 22, 2026"
+  },
+  "syllabus": [
+    {
+      "type": "file",
+      "name": "BCA Sixth Semester Syllabus.pdf",
+      "path": "syllabus/BCA Sixth Semester Syllabus.pdf",
+      "url": "syllabus/BCA Sixth Semester Syllabus.pdf"
+    },
+    {
+      "type": "file",
+      "name": "BCAC601.pdf",
+      "path": "syllabus/BCAC601.pdf",
+      "url": "syllabus/BCAC601.pdf"
+    },
+    {
+      "type": "file",
+      "name": "MIM601 MIM602.pdf",
+      "path": "syllabus/MIM601 MIM602.pdf",
+      "url": "syllabus/MIM601 MIM602.pdf"
+    },
+    {
+      "type": "file",
+      "name": "Networking.pdf",
+      "path": "syllabus/Networking.pdf",
+      "url": "syllabus/Networking.pdf"
+    },
+    {
+      "type": "file",
+      "name": "sem623.pdf",
+      "path": "syllabus/sem623.pdf",
+      "url": "syllabus/sem623.pdf"
+    }
+  ],
+  "notes": [
+    {
+      "type": "dir",
+      "name": "Major subjects",
+      "path": "notes/Major subjects",
+      "children": [
+        {
+          "type": "dir",
+          "name": "Advance Java with Web Application",
+          "path": "notes/Major subjects/Advance Java with Web Application",
+          "children": []
+        },
+        {
+          "type": "dir",
+          "name": "Networking",
+          "path": "notes/Major subjects/Networking",
+          "children": []
+        },
+        {
+          "type": "dir",
+          "name": "Unix and Shell Programming",
+          "path": "notes/Major subjects/Unix and Shell Programming",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "dir",
+      "name": "Minor Subjects",
+      "path": "notes/Minor Subjects",
+      "children": [
+        {
+          "type": "dir",
+          "name": "CPM",
+          "path": "notes/Minor Subjects/CPM",
+          "children": []
+        },
+        {
+          "type": "dir",
+          "name": "CRM",
+          "path": "notes/Minor Subjects/CRM",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "assignments": [
+    {
+      "type": "dir",
+      "name": "CA1",
+      "path": "assignments/CA1",
+      "children": [
+        {
+          "type": "file",
+          "name": "CA1Q_Advance Java with Web Application.pdf",
+          "path": "assignments/CA1/CA1Q_Advance Java with Web Application.pdf",
+          "url": "assignments/CA1/CA1Q_Advance Java with Web Application.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA1Q_Unix and Shell Programming.pdf",
+          "path": "assignments/CA1/CA1Q_Unix and Shell Programming.pdf",
+          "url": "assignments/CA1/CA1Q_Unix and Shell Programming.pdf"
+        }
+      ]
+    },
+    {
+      "type": "dir",
+      "name": "CA2",
+      "path": "assignments/CA2",
+      "children": [
+        {
+          "type": "file",
+          "name": "CA2Q_Advance Java with Web Application.pdf",
+          "path": "assignments/CA2/CA2Q_Advance Java with Web Application.pdf",
+          "url": "assignments/CA2/CA2Q_Advance Java with Web Application.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA2Q_Career Planning and Management.pdf",
+          "path": "assignments/CA2/CA2Q_Career Planning and Management.pdf",
+          "url": "assignments/CA2/CA2Q_Career Planning and Management.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA2Q_Unix and Shell Programming.pdf",
+          "path": "assignments/CA2/CA2Q_Unix and Shell Programming.pdf",
+          "url": "assignments/CA2/CA2Q_Unix and Shell Programming.pdf"
+        }
+      ]
+    },
+    {
+      "type": "dir",
+      "name": "CA3",
+      "path": "assignments/CA3",
+      "children": [
+        {
+          "type": "file",
+          "name": "CA3Q_Unix and Shell Programming.pdf",
+          "path": "assignments/CA3/CA3Q_Unix and Shell Programming.pdf",
+          "url": "assignments/CA3/CA3Q_Unix and Shell Programming.pdf"
+        }
+      ]
+    },
+    {
+      "type": "dir",
+      "name": "CA4",
+      "path": "assignments/CA4",
+      "children": []
+    },
+    {
+      "type": "dir",
+      "name": "PCA1",
+      "path": "assignments/PCA1",
+      "children": [
+        {
+          "type": "file",
+          "name": "PCA1_BCAC691.pdf",
+          "path": "assignments/PCA1/PCA1_BCAC691.pdf",
+          "url": "assignments/PCA1/PCA1_BCAC691.pdf"
+        },
+        {
+          "type": "file",
+          "name": "PCA1_BCAC692.pdf",
+          "path": "assignments/PCA1/PCA1_BCAC692.pdf",
+          "url": "assignments/PCA1/PCA1_BCAC692.pdf"
+        }
+      ]
+    },
+    {
+      "type": "dir",
+      "name": "PCA2",
+      "path": "assignments/PCA2",
+      "children": []
+    },
+    {
+      "type": "dir",
+      "name": "Presentations",
+      "path": "assignments/Presentations",
+      "children": []
+    }
+  ],
+  "PYQ": [
+    {
+      "type": "dir",
+      "name": "Unix and Shell Programming",
+      "path": "PYQ/Unix and Shell Programming",
+      "children": [
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-502-2010.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2010.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2010.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-502-2011.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2011.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2011.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-502-2012.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2012.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2012.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-502-2014.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2014.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2014.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-502-2015.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2015.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2015.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-502-2016.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2016.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2016.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-502-2017.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2017.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2017.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-502-2020.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2020.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-502-2020.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-601-2023.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-601-2023.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-601-2023.pdf"
+        },
+        {
+          "type": "file",
+          "name": "bca-5-sem-unix-and-shell-programming-bca-601-2024.pdf",
+          "path": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-601-2024.pdf",
+          "url": "PYQ/Unix and Shell Programming/bca-5-sem-unix-and-shell-programming-bca-601-2024.pdf"
+        }
+      ]
+    }
+  ]
+}

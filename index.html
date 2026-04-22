@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Class Resources Dashboard</title>
+  <meta name="description" content="Modern class resources dashboard for syllabus, notes, assignments, and study materials.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+    (() => {
+      const storageKey = "class-resource-theme";
+      let initialTheme = "dark";
+
+      try {
+        const storedTheme = localStorage.getItem(storageKey);
+        if (storedTheme === "light" || storedTheme === "dark") {
+          initialTheme = storedTheme;
+        } else if (window.matchMedia("(prefers-color-scheme: light)").matches) {
+          initialTheme = "light";
+        }
+      } catch (error) {
+        if (window.matchMedia("(prefers-color-scheme: light)").matches) {
+          initialTheme = "light";
+        }
+      }
+
+      document.documentElement.setAttribute("data-theme", initialTheme);
+    })();
+  </script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-row">
+      <div class="brand-block">
+        <p class="brand-kicker">BCA Semester 6</p>
+        <h1 class="brand-title">Academic Resources Hub</h1>
+      </div>
+      <div class="header-meta">
+        <p id="last-updated">Last updated: --</p>
+        <div class="header-actions">
+          <div class="js-switch-btn" id="switch-btn">
+            <input class="js-change-mode" id="switch" type="checkbox" aria-label="Toggle color theme">
+            <label for="switch" title="Toggle color theme"></label>
+          </div>
+          <a class="btn btn-ghost" href="#resources">Browse Files</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h2 class="hero-title">LEARN. TRACK. DOWNLOAD. ALL IN ONE PLACE.</h2>
+      <p class="hero-subtitle">
+        A fast, searchable resource hub powered by static files and deployable on GitHub Pages.
+      </p>
+      <div class="hero-controls">
+        <label class="search-wrap" for="search-input">
+          <span class="search-label">Search files and folders</span>
+          <input id="search-input" type="search" placeholder="Try: networking, java, assignment..." autocomplete="off">
+        </label>
+        <button class="btn btn-primary" id="clear-search" type="button">CLEAR</button>
+      </div>
+    </section>
+
+    <section class="stats-grid" id="stats-grid" aria-label="Resource stats"></section>
+
+    <section id="resources" class="resources-section">
+      <div class="section-head">
+        <h3>Resources</h3>
+        <p id="result-count">0 items</p>
+      </div>
+      <div id="section-tabs" class="tabs" role="tablist" aria-label="Resource sections"></div>
+      <div id="resource-list" class="resource-list" aria-live="polite"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-row">
+      <div class="footer-copy">
+        <p class="footer-kicker">Developed By</p>
+        <p class="footer-name">Abhrajyoti Dhara</p>
+      </div>
+      <div class="footer-links" aria-label="Developer social links">
+        <a class="footer-link" href="https://github.com/abhra92" target="_blank" rel="noopener">GitHub</a>
+        <a class="footer-link" href="https://www.abhrajoyti.me/" target="_blank" rel="noopener">Website</a>
+        <a class="footer-link" href="https://www.linkedin.com/in/abhra92/" target="_blank" rel="noopener">LinkedIn</a>
+        <a class="footer-link" href="https://x.com/_abHra_" target="_blank" rel="noopener">X</a>
+      </div>
+    </div>
+  </footer>
+
+  <template id="resource-node-template">
+    <article class="resource-node"></article>
+  </template>
+
+  <script src="script.js"></script>
+</body>
+</html>
