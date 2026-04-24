@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "April 22, 2026"
+    "lastUpdated": "April 24, 2026"
   },
   "syllabus": [
     {
@@ -94,6 +94,24 @@
         },
         {
           "type": "file",
+          "name": "CA1Q_Career Planning and Management.pdf",
+          "path": "assignments/CA1/CA1Q_Career Planning and Management.pdf",
+          "url": "assignments/CA1/CA1Q_Career Planning and Management.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA1Q_Customer Relationship Managment.pdf",
+          "path": "assignments/CA1/CA1Q_Customer Relationship Managment.pdf",
+          "url": "assignments/CA1/CA1Q_Customer Relationship Managment.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA1Q_Networking.pdf",
+          "path": "assignments/CA1/CA1Q_Networking.pdf",
+          "url": "assignments/CA1/CA1Q_Networking.pdf"
+        },
+        {
+          "type": "file",
           "name": "CA1Q_Unix and Shell Programming.pdf",
           "path": "assignments/CA1/CA1Q_Unix and Shell Programming.pdf",
           "url": "assignments/CA1/CA1Q_Unix and Shell Programming.pdf"
@@ -119,6 +137,18 @@
         },
         {
           "type": "file",
+          "name": "CA2Q_Customer Relationship Managment.pdf",
+          "path": "assignments/CA2/CA2Q_Customer Relationship Managment.pdf",
+          "url": "assignments/CA2/CA2Q_Customer Relationship Managment.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA2Q_Networking.pdf",
+          "path": "assignments/CA2/CA2Q_Networking.pdf",
+          "url": "assignments/CA2/CA2Q_Networking.pdf"
+        },
+        {
+          "type": "file",
           "name": "CA2Q_Unix and Shell Programming.pdf",
           "path": "assignments/CA2/CA2Q_Unix and Shell Programming.pdf",
           "url": "assignments/CA2/CA2Q_Unix and Shell Programming.pdf"
@@ -130,6 +160,30 @@
       "name": "CA3",
       "path": "assignments/CA3",
       "children": [
+        {
+          "type": "file",
+          "name": "CA3Q_Advance Java With Web Application.pdf",
+          "path": "assignments/CA3/CA3Q_Advance Java With Web Application.pdf",
+          "url": "assignments/CA3/CA3Q_Advance Java With Web Application.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA3Q_Career Planning and Management.pdf",
+          "path": "assignments/CA3/CA3Q_Career Planning and Management.pdf",
+          "url": "assignments/CA3/CA3Q_Career Planning and Management.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA3Q_Customer Relationship Managment.pdf",
+          "path": "assignments/CA3/CA3Q_Customer Relationship Managment.pdf",
+          "url": "assignments/CA3/CA3Q_Customer Relationship Managment.pdf"
+        },
+        {
+          "type": "file",
+          "name": "CA3Q_Networking.pdf",
+          "path": "assignments/CA3/CA3Q_Networking.pdf",
+          "url": "assignments/CA3/CA3Q_Networking.pdf"
+        },
         {
           "type": "file",
           "name": "CA3Q_Unix and Shell Programming.pdf",
