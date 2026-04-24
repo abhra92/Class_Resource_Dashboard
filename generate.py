@@ -26,7 +26,7 @@ from datetime import datetime
 # ==============================================================================
 # Define the folders to scan for resources shown in the dashboard.
 # Keep this list explicit so ordering is predictable in the UI.
-TARGET_FOLDERS = ["syllabus", "notes", "assignments", "PYQ", "vanilla js dark mode switch"]
+TARGET_FOLDERS = ["syllabus", "notes", "assignments", "PYQ"]  # Add more folders here as needed
 
 # Output filename for the generated JSON
 OUTPUT_FILE = "files.json"
