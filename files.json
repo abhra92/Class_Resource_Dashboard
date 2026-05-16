@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "lastUpdated": "April 24, 2026"
+    "lastUpdated": "May 16, 2026"
   },
   "syllabus": [
     {
@@ -32,6 +32,12 @@
       "name": "sem623.pdf",
       "path": "syllabus/sem623.pdf",
       "url": "syllabus/sem623.pdf"
+    },
+    {
+      "type": "file",
+      "name": "UnixShell.pdf",
+      "path": "syllabus/UnixShell.pdf",
+      "url": "syllabus/UnixShell.pdf"
     }
   ],
   "notes": [
